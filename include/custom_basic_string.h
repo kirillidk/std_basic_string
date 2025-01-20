@@ -1,7 +1,8 @@
 #include <uchar.h>  //char16_t, char32_t
 
-#include <cstddef>  //std::size_t
-#include <cstring>  //std::memset, std::memcpy
+#include <algorithm>  //std::swap
+#include <cstddef>    //std::size_t
+#include <cstring>    //std::memset, std::memcpy
 
 namespace kirillidk_containers {
 
